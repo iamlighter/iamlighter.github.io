@@ -1,1 +1,2 @@
-# iamlighter.github.io
+# 这是一个博客仓库
+*有待更新*
